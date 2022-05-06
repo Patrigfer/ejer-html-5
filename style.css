@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    letter-spacing: 5px;
+    font-size: 36px;
+}
+
+main{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.lorem-main{
+    font-size: small;
+    text-align: justify;
+}
+
+.lorem-main2{
+    display: flex;
+    font-size: small;
+    text-align: justify;
+}
+
+.logo-main{
+    padding: 15px 0px;
+    width: 100px;
+    height: 110px;
+}
+
+.css3{
+    background-color: rgba(84, 84, 84, 0.994);
+    width: 400px;
+    font-size: larger;
+    font-weight: 600;
+    padding: 10px;
+    text-align: justify;
+    color: white;
+}
