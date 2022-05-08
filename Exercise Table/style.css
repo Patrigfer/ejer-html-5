@@ -1,0 +1,162 @@
+body{
+    background-image: url(./img/madera.png);
+}
+
+h1{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    width: 84%;
+    margin-left: 14%;
+}
+
+main section{
+    display: flex;
+}
+
+main section div{
+    width: 14%;
+    height: 3em;
+    padding-top: 2%;
+}
+
+#title{
+    background-color: green;
+    width: 84%;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+}
+
+#black{
+    background-color: black;
+}
+
+#teal{
+    background-color: teal;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#navy{
+    background-color: navy;
+}
+
+#lime{
+    background-color: lime;
+}
+
+#white{
+    background-color: white;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+.olive{
+    background-color: olive;
+}
+
+.red{
+    background-color: red;
+}
+
+#marron{
+    background-color: #0a0200;
+}
+
+#gray{
+    background-color: gray;
+}
+
+#fuchsia{
+    background-color: fuchsia;
+}
+
+#green{
+    background-color: green;
+    width: 42%;
+}
+
+footer p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5em;
+    padding-right: 0.5em;
+    word-spacing: 0.7em;
+    margin-bottom: -3.5%;
+}
+
+#texblack{
+    color: black;
+}
+
+#texteal{
+    color: teal;
+}
+
+#texblue{
+    color: blue;
+}
+
+#texnavy{
+    color: navy;
+}
+
+#texlime{
+    color: lime;
+}
+
+#texwhite{
+    color: white;
+}
+
+#texpurple{
+    color: purple;
+}
+
+#texyellow{
+    color: yellow;
+}
+
+#texolive{
+    color: olive;
+}
+
+#texred{
+    color: red;
+}
+
+#texmarron{
+    color: #0a0200;
+}
+
+#texgray{
+    color: gray;
+}
+
+#texfuchsia{
+    color: fuchsia;
+}
+
+#texgreen{
+    color: green;
+}
+
+#texaqua{
+    color: aqua;
+}
+
+#texsilver{
+    color: silver;
+}
